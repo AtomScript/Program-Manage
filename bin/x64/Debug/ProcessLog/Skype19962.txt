@@ -1,0 +1,43 @@
+---------------------Informações de registro---------------------
+Salvo no diretorio: C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug/ProcessLog/Skype19962.txt
+Registro salvo as: 20:21:31 segunda-feira / agosto / 2020
+
+
+
+
+---------------------Informações do processo---------------------
+id: 1996
+processo: Skype.exe
+Nome: Skype
+plataforma: 32 bits/x86
+iniciado as: 17/08/2020 17:49:15
+status: Em execução
+CPU: 0%
+Memoria: 9 MB
+local: C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.61.100.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+endereço base: AB0000
+endereço de altura: 4E72C90
+
+
+-------------------Dll's usada pelo proceso-------------------
+
+Dll: Skype.exe, endereço base: AB0000, Endereço do ponteiro: 82259088, local: C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.61.100.0_x86__kzf8qxf38zg5c\Skype\Skype.exe.
+Dll: ntdll.dll, endereço base: 7FFE52B80000, Endereço do ponteiro: 0, local: C:\WINDOWS\SYSTEM32\ntdll.dll.
+Dll: wow64.dll, endereço base: 7FFE528F0000, Endereço do ponteiro: 140730283620400, local: C:\WINDOWS\System32\wow64.dll.
+Dll: wow64win.dll, endereço base: 7FFE51F80000, Endereço do ponteiro: 140730273691760, local: C:\WINDOWS\System32\wow64win.dll.
+Dll: wow64cpu.dll, endereço base: 77E40000, Endereço do ponteiro: 2011435680, local: C:\WINDOWS\System32\wow64cpu.dll.
+
+
+
+
+---------------------Informações do programa---------------------
+local: C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.61.100.0_x86__kzf8qxf38zg5c\Skype
+Tamanho: 87 Mb
+Data de criação: 20/07/2020 16:02:46
+Versão: 8.61.0.100
+Nome: Skype
+Empresa: Skype Technologies S.A.
+Linguagem padrão: Inglês (Estados Unidos)
+Beta: Não
+Alterado: Não
+Direitos autorais: (c) 2020 Skype and/or Microsoft

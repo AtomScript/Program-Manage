@@ -1,0 +1,111 @@
+---------------------Informações de registro---------------------
+Salvo no diretorio: C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug/ProcessLog/notepad++69525.txt
+Registro salvo as: 18:01:00 terça-feira / agosto / 2020
+
+
+
+
+---------------------Informações do processo---------------------
+id: 6952
+processo: notepad++.exe
+Nome: Notepad++
+plataforma: 64 bits/x64
+iniciado as: 18/08/2020 17:12:29
+status: Em execução
+CPU: 0%
+Memoria: 27 MB
+local: C:\Program Files\Notepad++\notepad++.exe
+endereço base: 7FF784950000
+endereço de altura: 7FF784AB8BB4
+
+
+-------------------Dll's usada pelo proceso-------------------
+
+Dll: notepad++.exe, endereço base: 7FF784950000, Endereço do ponteiro: 140701059484596, local: C:\Program Files\Notepad++\notepad++.exe.
+Dll: ntdll.dll, endereço base: 7FFE52B80000, Endereço do ponteiro: 0, local: C:\WINDOWS\SYSTEM32\ntdll.dll.
+Dll: aswhook.dll, endereço base: 7FFE4C3D0000, Endereço do ponteiro: 140730177514720, local: C:\Program Files\Avast Software\Avast\aswhook.dll.
+Dll: KERNEL32.DLL, endereço base: 7FFE503F0000, Endereço do ponteiro: 140730244824176, local: C:\WINDOWS\System32\KERNEL32.DLL.
+Dll: KERNELBASE.dll, endereço base: 7FFE4F950000, Endereço do ponteiro: 140730233629264, local: C:\WINDOWS\System32\KERNELBASE.dll.
+Dll: apphelp.dll, endereço base: 7FFE4D350000, Endereço do ponteiro: 140730193818288, local: C:\WINDOWS\SYSTEM32\apphelp.dll.
+Dll: SHLWAPI.dll, endereço base: 7FFE50AD0000, Endereço do ponteiro: 140730251976032, local: C:\WINDOWS\System32\SHLWAPI.dll.
+Dll: msvcrt.dll, endereço base: 7FFE50BA0000, Endereço do ponteiro: 140730252818576, local: C:\WINDOWS\System32\msvcrt.dll.
+Dll: combase.dll, endereço base: 7FFE51020000, Endereço do ponteiro: 140730258425968, local: C:\WINDOWS\System32\combase.dll.
+Dll: ucrtbase.dll, endereço base: 7FFE4FF00000, Endereço do ponteiro: 140730239595168, local: C:\WINDOWS\System32\ucrtbase.dll.
+Dll: RPCRT4.dll, endereço base: 7FFE505A0000, Endereço do ponteiro: 140730246839264, local: C:\WINDOWS\System32\RPCRT4.dll.
+Dll: bcryptPrimitives.dll, endereço base: 7FFE4FD70000, Endereço do ponteiro: 140730238139744, local: C:\WINDOWS\System32\bcryptPrimitives.dll.
+Dll: GDI32.dll, endereço base: 7FFE50D90000, Endereço do ponteiro: 140730254834032, local: C:\WINDOWS\System32\GDI32.dll.
+Dll: win32u.dll, endereço base: 7FFE4FED0000, Endereço do ponteiro: 0, local: C:\WINDOWS\System32\win32u.dll.
+Dll: gdi32full.dll, endereço base: 7FFE50000000, Endereço do ponteiro: 140730240871472, local: C:\WINDOWS\System32\gdi32full.dll.
+Dll: msvcp_win.dll, endereço base: 7FFE50200000, Endereço do ponteiro: 140730242774432, local: C:\WINDOWS\System32\msvcp_win.dll.
+Dll: USER32.dll, endereço base: 7FFE51360000, Endereço do ponteiro: 140730260973024, local: C:\WINDOWS\System32\USER32.dll.
+Dll: SHELL32.dll, endereço base: 7FFE52010000, Endereço do ponteiro: 140730275288688, local: C:\WINDOWS\System32\SHELL32.dll.
+Dll: cfgmgr32.dll, endereço base: 7FFE4F900000, Endereço do ponteiro: 140730233333776, local: C:\WINDOWS\System32\cfgmgr32.dll.
+Dll: shcore.dll, endereço base: 7FFE50CE0000, Endereço do ponteiro: 140730254332464, local: C:\WINDOWS\System32\shcore.dll.
+Dll: windows.storage.dll, endereço base: 7FFE4F170000, Endereço do ponteiro: 140730227083856, local: C:\WINDOWS\System32\windows.storage.dll.
+Dll: sechost.dll, endereço base: 7FFE50C40000, Endereço do ponteiro: 140730253555984, local: C:\WINDOWS\System32\sechost.dll.
+Dll: advapi32.dll, endereço base: 7FFE50DC0000, Endereço do ponteiro: 140730255097696, local: C:\WINDOWS\System32\advapi32.dll.
+Dll: profapi.dll, endereço base: 7FFE4F120000, Endereço do ponteiro: 140730225029584, local: C:\WINDOWS\System32\profapi.dll.
+Dll: powrprof.dll, endereço base: 7FFE4F0B0000, Endereço do ponteiro: 140730224554320, local: C:\WINDOWS\System32\powrprof.dll.
+Dll: UMPDC.dll, endereço base: 7FFE4F0A0000, Endereço do ponteiro: 140730224505584, local: C:\WINDOWS\System32\UMPDC.dll.
+Dll: kernel.appcore.dll, endereço base: 7FFE4F150000, Endereço do ponteiro: 140730225212768, local: C:\WINDOWS\System32\kernel.appcore.dll.
+Dll: cryptsp.dll, endereço base: 7FFE4FD50000, Endereço do ponteiro: 140730237798064, local: C:\WINDOWS\System32\cryptsp.dll.
+Dll: CRYPT32.dll, endereço base: 7FFE4FC00000, Endereço do ponteiro: 140730236722224, local: C:\WINDOWS\System32\CRYPT32.dll.
+Dll: MSASN1.dll, endereço base: 7FFE4F100000, Endereço do ponteiro: 140730224891024, local: C:\WINDOWS\System32\MSASN1.dll.
+Dll: WINTRUST.dll, endereço base: 7FFE501A0000, Endereço do ponteiro: 140730242364784, local: C:\WINDOWS\System32\WINTRUST.dll.
+Dll: COMDLG32.dll, endereço base: 7FFE504B0000, Endereço do ponteiro: 140730245686144, local: C:\WINDOWS\System32\COMDLG32.dll.
+Dll: ole32.dll, endereço base: 7FFE506C0000, Endereço do ponteiro: 140730247821440, local: C:\WINDOWS\System32\ole32.dll.
+Dll: COMCTL32.dll, endereço base: 7FFE41370000, Endereço do ponteiro: 140729993127984, local: C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1016_none_9e7a36bbe461dae4\COMCTL32.dll.
+Dll: dbghelp.dll, endereço base: 7FFE45D90000, Endereço do ponteiro: 140730070375904, local: C:\WINDOWS\SYSTEM32\dbghelp.dll.
+Dll: VERSION.dll, endereço base: 7FFE487C0000, Endereço do ponteiro: 140730114511632, local: C:\WINDOWS\SYSTEM32\VERSION.dll.
+Dll: SensApi.dll, endereço base: 7FFE4C460000, Endereço do ponteiro: 140730178082496, local: C:\WINDOWS\SYSTEM32\SensApi.dll.
+Dll: WINMM.dll, endereço base: 7FFE4D220000, Endereço do ponteiro: 140730192509104, local: C:\WINDOWS\SYSTEM32\WINMM.dll.
+Dll: WINMMBASE.dll, endereço base: 7FFE4D1F0000, Endereço do ponteiro: 140730192330704, local: C:\WINDOWS\SYSTEM32\WINMMBASE.dll.
+Dll: IMM32.DLL, endereço base: 7FFE515F0000, Endereço do ponteiro: 140730263606720, local: C:\WINDOWS\System32\IMM32.DLL.
+Dll: imagehlp.dll, endereço base: 7FFE50580000, Endereço do ponteiro: 140730246377376, local: C:\WINDOWS\System32\imagehlp.dll.
+Dll: rsaenh.dll, endereço base: 7FFE4E410000, Endereço do ponteiro: 140730211330512, local: C:\WINDOWS\system32\rsaenh.dll.
+Dll: bcrypt.dll, endereço base: 7FFE4FEA0000, Endereço do ponteiro: 140730239189824, local: C:\WINDOWS\System32\bcrypt.dll.
+Dll: CRYPTBASE.dll, endereço base: 7FFE4EA70000, Endereço do ponteiro: 140730217996800, local: C:\WINDOWS\SYSTEM32\CRYPTBASE.dll.
+Dll: SciLexer.dll, endereço base: 7FFE17480000, Endereço do ponteiro: 140729290145484, local: C:\Program Files\Notepad++\SciLexer.dll.
+Dll: OLEAUT32.dll, endereço base: 7FFE50300000, Endereço do ponteiro: 140730243864160, local: C:\WINDOWS\System32\OLEAUT32.dll.
+Dll: MSIMG32.dll, endereço base: 7FFE4B720000, Endereço do ponteiro: 140730164187536, local: C:\WINDOWS\SYSTEM32\MSIMG32.dll.
+Dll: uxtheme.dll, endereço base: 7FFE4D690000, Endereço do ponteiro: 140730197309920, local: C:\WINDOWS\SYSTEM32\uxtheme.dll.
+Dll: MSCTF.dll, endereço base: 7FFE52A00000, Endereço do ponteiro: 140730284935200, local: C:\WINDOWS\System32\MSCTF.dll.
+Dll: clbcatq.dll, endereço base: 7FFE52950000, Endereço do ponteiro: 140730283934048, local: C:\WINDOWS\System32\clbcatq.dll.
+Dll: dataexchange.dll, endereço base: 7FFE479C0000, Endereço do ponteiro: 140730099859616, local: C:\WINDOWS\system32\dataexchange.dll.
+Dll: d3d11.dll, endereço base: 7FFE4C590000, Endereço do ponteiro: 140730179818656, local: C:\WINDOWS\system32\d3d11.dll.
+Dll: dcomp.dll, endereço base: 7FFE4C8A0000, Endereço do ponteiro: 140730182901312, local: C:\WINDOWS\system32\dcomp.dll.
+Dll: dxgi.dll, endereço base: 7FFE4DD90000, Endereço do ponteiro: 140730204641408, local: C:\WINDOWS\system32\dxgi.dll.
+Dll: dxcore.dll, endereço base: 7FFE4DD00000, Endereço do ponteiro: 140730203959472, local: C:\WINDOWS\SYSTEM32\dxcore.dll.
+Dll: twinapi.appcore.dll, endereço base: 7FFE4D420000, Endereço do ponteiro: 140730195036336, local: C:\WINDOWS\system32\twinapi.appcore.dll.
+Dll: RMCLIENT.dll, endereço base: 7FFE4D910000, Endereço do ponteiro: 140730199807776, local: C:\WINDOWS\system32\RMCLIENT.dll.
+Dll: WindowsCodecs.dll, endereço base: 7FFE487D0000, Endereço do ponteiro: 140730115141584, local: C:\WINDOWS\SYSTEM32\WindowsCodecs.dll.
+Dll: TextInputFramework.dll, endereço base: 7FFE49A90000, Endereço do ponteiro: 140730134412064, local: C:\WINDOWS\System32\TextInputFramework.dll.
+Dll: CoreUIComponents.dll, endereço base: 7FFE49180000, Endereço do ponteiro: 140730125254752, local: C:\WINDOWS\System32\CoreUIComponents.dll.
+Dll: CoreMessaging.dll, endereço base: 7FFE4CC30000, Endereço do ponteiro: 140730186594208, local: C:\WINDOWS\System32\CoreMessaging.dll.
+Dll: ntmarta.dll, endereço base: 7FFE4E0F0000, Endereço do ponteiro: 140730208052512, local: C:\WINDOWS\SYSTEM32\ntmarta.dll.
+Dll: wintypes.dll, endereço base: 7FFE4B120000, Endereço do ponteiro: 140730158064592, local: C:\WINDOWS\SYSTEM32\wintypes.dll.
+Dll: mimeTools.dll, endereço base: 7FFE44EE0000, Endereço do ponteiro: 140730054884764, local: C:\Program Files\Notepad++\plugins\mimeTools\mimeTools.dll.
+Dll: NppConverter.dll, endereço base: 7FFE3DC30000, Endereço do ponteiro: 140729934633916, local: C:\Program Files\Notepad++\plugins\NppConverter\NppConverter.dll.
+Dll: NppExport.dll, endereço base: 7FFE3D350000, Endereço do ponteiro: 140729925318432, local: C:\Program Files\Notepad++\plugins\NppExport\NppExport.dll.
+Dll: XMLTools.dll, endereço base: 1A0DF060000, Endereço do ponteiro: 1790449818160, local: C:\Program Files\Notepad++\plugins\XMLTools\XMLTools.dll.
+Dll: gdiplus.dll, endereço base: 7FFE38DD0000, Endereço do ponteiro: 140729852777312, local: C:\WINDOWS\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.1016_none_cf6529a13ef454b2\gdiplus.dll.
+Dll: OLEACC.dll, endereço base: 7FFE3D800000, Endereço do ponteiro: 140729930278352, local: C:\WINDOWS\SYSTEM32\OLEACC.dll.
+Dll: WINSPOOL.DRV, endereço base: 7FFE3C390000, Endereço do ponteiro: 140729908859904, local: C:\WINDOWS\SYSTEM32\WINSPOOL.DRV.
+Dll: PROPSYS.dll, endereço base: 7FFE4B870000, Endereço do ponteiro: 140730165818048, local: C:\WINDOWS\SYSTEM32\PROPSYS.dll.
+Dll: IPHLPAPI.DLL, endereço base: 7FFE4E5B0000, Endereço do ponteiro: 140730213051712, local: C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL.
+Dll: iertutil.dll, endereço base: 7FFE50820000, Endereço do ponteiro: 140730249339728, local: C:\WINDOWS\System32\iertutil.dll.
+
+
+
+
+---------------------Informações do programa---------------------
+local: C:\Program Files\Notepad++
+Tamanho: 3 Mb
+Data de criação: 23/06/2020 21:58:48
+Versão: 7.88
+Nome: Notepad++
+Empresa: Don HO don.h@free.fr
+Linguagem padrão: Inglês (Estados Unidos)
+Beta: Não
+Alterado: Não
+Direitos autorais: Copyleft 1998-2016 by Don HO

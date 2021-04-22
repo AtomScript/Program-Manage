@@ -1,0 +1,107 @@
+C:\Users\Rafael\source\repos\ProgramManage\bin\x64\Debug\ProgramManage.exe.config
+C:\Users\Rafael\source\repos\ProgramManage\bin\x64\Debug\ProgramManage.exe
+C:\Users\Rafael\source\repos\ProgramManage\bin\x64\Debug\ProgramManage.pdb
+C:\Users\Rafael\source\repos\ProgramManage\bin\x64\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Rafael\source\repos\ProgramManage\bin\x64\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Rafael\source\repos\ProgramManage\bin\x64\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.Form1.resources
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.Form4.resources
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.inicio.resources
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.Properties.Resources.resources
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.SelectProcessForm.resources
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.csproj.CopyComplete
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.exe
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.pdb
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.ConfigProcess.resources
+C:\Users\Rafael\source\repos\ProgramManage\bin\x64\Debug\gh.dll
+C:\Users\Rafael\source\repos\ProgramManage\obj\x64\Debug\ProgramManage.Injection.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\bin\x64\Debug\ProgramManage.exe.config
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\bin\x64\Debug\ProgramManage.exe
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\bin\x64\Debug\ProgramManage.pdb
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\bin\x64\Debug\gh.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\bin\x64\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\bin\x64\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.ConfigProcess.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.Form1.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.Form4.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.inicio.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.Injection.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.Properties.Resources.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.SelectProcessForm.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.csproj.CopyComplete
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.exe
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.pdb
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.5\obj\x64\Debug\ProgramManage.ConfigProcessMod.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\ProgramManage.exe.config
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\ProgramManage.exe
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\ProgramManage.pdb
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\gh.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.ConfigProcess.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.ConfigProcessMod.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Form1.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Form4.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.inicio.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Injection.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Properties.Resources.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.csproj.CopyComplete
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.exe
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.pdb
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Viewer.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\Be.Windows.Forms.HexBox.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Azure.NotificationHubs.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\System.Buffers.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\System.Memory.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Azure.NotificationHubs.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\System.Buffers.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\System.Memory.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.AutoClose.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.SelectProcesse.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Form3.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.seeproc.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Fileinfo.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\WebDriver.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\WebDriver.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Selenium.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Changelv.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.Changelvb.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.newwaitlv.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.AddInputlv.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.AddClicklv.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.AddClearlv.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.AddReplacelv.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.ChangeReplacelv.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\WebDriver.Support.dll
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug\WebDriver.Support.xml
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.AddCustomlv.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.DialogSelenium.resources
+C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\obj\x64\Debug\ProgramManage.SelectProcessForme.resources

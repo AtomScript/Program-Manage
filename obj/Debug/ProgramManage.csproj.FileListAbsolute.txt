@@ -1,0 +1,17 @@
+C:\Users\Rafael\source\repos\ProgramManage\bin\Debug\ProgramManage.exe.config
+C:\Users\Rafael\source\repos\ProgramManage\bin\Debug\ProgramManage.exe
+C:\Users\Rafael\source\repos\ProgramManage\bin\Debug\ProgramManage.pdb
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.Properties.Resources.resources
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.exe
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.pdb
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.Form1.resources
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.SelectProcessForm.resources
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.Form4.resources
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.inicio.resources
+C:\Users\Rafael\source\repos\ProgramManage\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Rafael\source\repos\ProgramManage\obj\Debug\ProgramManage.csproj.CopyComplete
+C:\Users\Rafael\source\repos\ProgramManage\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Rafael\source\repos\ProgramManage\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

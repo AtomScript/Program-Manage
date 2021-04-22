@@ -1,0 +1,78 @@
+---------------------Informações de registro---------------------
+Salvo no diretorio: C:\Users\Rafael\Desktop\ProgramManage - projeto 5.9\bin\x64\Debug/ProcessLog/chrome79641.txt
+Registro salvo as: 21:39:02 domingo / agosto / 2020
+
+
+
+
+---------------------Informações do processo---------------------
+Encoded bytes (in hex):  41 53 43 49 49 20 45 6E 63 6F 64 69 6E 67 20 45 78 61 6D 70 6C 65 Decoded string: 'ASCII Encoding Example'id: 7964
+processo: chrome.exe
+Nome: Google Chrome
+plataforma: 64 bits/x64
+iniciado as: 16/08/2020 21:14:05
+status: Em execução
+CPU: 0%
+Memoria: 39 MB
+local: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+endereço base: 7FF6980A0000
+endereço de altura: 7FF6981AA310
+
+
+-------------------Dll's usada pelo proceso-------------------
+
+Dll: chrome.exe, endereço base: 7FF6980A0000, Endereço do ponteiro: 140697090564880, local: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe.
+Dll: ntdll.dll, endereço base: 7FFD4CDC0000, Endereço do ponteiro: 0, local: C:\WINDOWS\SYSTEM32\ntdll.dll.
+Dll: KERNEL32.DLL, endereço base: 7FFD4B5F0000, Endereço do ponteiro: 140725868067952, local: C:\WINDOWS\System32\KERNEL32.DLL.
+Dll: KERNELBASE.dll, endereço base: 7FFD493E0000, Endereço do ponteiro: 140725832297040, local: C:\WINDOWS\System32\KERNELBASE.dll.
+Dll: chrome_elf.dll, endereço base: 7FFD18FC0000, Endereço do ponteiro: 140725023125784, local: C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.125\chrome_elf.dll.
+Dll: VERSION.dll, endereço base: 7FFD43830000, Endereço do ponteiro: 140725736117008, local: C:\WINDOWS\SYSTEM32\VERSION.dll.
+Dll: msvcrt.dll, endereço base: 7FFD4C170000, Endereço do ponteiro: 140725880060048, local: C:\WINDOWS\System32\msvcrt.dll.
+Dll: bcryptPrimitives.dll, endereço base: 7FFD49740000, Endereço do ponteiro: 140725836021088, local: C:\WINDOWS\System32\bcryptPrimitives.dll.
+Dll: WINMM.dll, endereço base: 7FFD47470000, Endereço do ponteiro: 140725799303344, local: C:\WINDOWS\SYSTEM32\WINMM.dll.
+Dll: WINMMBASE.dll, endereço base: 7FFD47440000, Endereço do ponteiro: 140725799124944, local: C:\WINDOWS\SYSTEM32\WINMMBASE.dll.
+Dll: cfgmgr32.dll, endereço base: 7FFD49C60000, Endereço do ponteiro: 140725841242128, local: C:\WINDOWS\System32\cfgmgr32.dll.
+Dll: ucrtbase.dll, endereço base: 7FFD49A10000, Endereço do ponteiro: 140725838787232, local: C:\WINDOWS\System32\ucrtbase.dll.
+Dll: ADVAPI32.dll, endereço base: 7FFD4A700000, Endereço do ponteiro: 140725852389216, local: C:\WINDOWS\System32\ADVAPI32.dll.
+Dll: sechost.dll, endereço base: 7FFD4A7B0000, Endereço do ponteiro: 140725853141264, local: C:\WINDOWS\System32\sechost.dll.
+Dll: RPCRT4.dll, endereço base: 7FFD4B450000, Endereço do ponteiro: 140725866609632, local: C:\WINDOWS\System32\RPCRT4.dll.
+Dll: chrome.dll, endereço base: 7FFD0F660000, Endereço do ponteiro: 140724971331220, local: C:\Program Files (x86)\Google\Chrome\Application\84.0.4147.125\chrome.dll.
+Dll: WS2_32.dll, endereço base: 7FFD4B280000, Endereço do ponteiro: 140725864457776, local: C:\WINDOWS\System32\WS2_32.dll.
+Dll: OLEAUT32.dll, endereço base: 7FFD4A850000, Endereço do ponteiro: 140725853804128, local: C:\WINDOWS\System32\OLEAUT32.dll.
+Dll: msvcp_win.dll, endereço base: 7FFD49CB0000, Endereço do ponteiro: 140725841573280, local: C:\WINDOWS\System32\msvcp_win.dll.
+Dll: combase.dll, endereço base: 7FFD4B6D0000, Endereço do ponteiro: 140725869807728, local: C:\WINDOWS\System32\combase.dll.
+Dll: WINTRUST.dll, endereço base: 7FFD499B0000, Endereço do ponteiro: 140725838411120, local: C:\WINDOWS\System32\WINTRUST.dll.
+Dll: MSASN1.dll, endereço base: 7FFD49340000, Endereço do ponteiro: 140725831619728, local: C:\WINDOWS\System32\MSASN1.dll.
+Dll: CRYPT32.dll, endereço base: 7FFD49B10000, Endereço do ponteiro: 140725840108592, local: C:\WINDOWS\System32\CRYPT32.dll.
+Dll: IPHLPAPI.DLL, endereço base: 7FFD487F0000, Endereço do ponteiro: 140725819780416, local: C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL.
+Dll: Secur32.dll, endereço base: 7FFD3CE80000, Endereço do ponteiro: 140725625300048, local: C:\WINDOWS\SYSTEM32\Secur32.dll.
+Dll: USERENV.dll, endereço base: 7FFD491D0000, Endereço do ponteiro: 140725830110304, local: C:\WINDOWS\SYSTEM32\USERENV.dll.
+Dll: profapi.dll, endereço base: 7FFD49360000, Endereço do ponteiro: 140725831758288, local: C:\WINDOWS\System32\profapi.dll.
+Dll: UIAutomationCore.DLL, endereço base: 7FFD397A0000, Endereço do ponteiro: 140725568135136, local: C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL.
+Dll: DWrite.dll, endereço base: 7FFD3E310000, Endereço do ponteiro: 140725647545392, local: C:\WINDOWS\SYSTEM32\DWrite.dll.
+Dll: WINSPOOL.DRV, endereço base: 7FFD3D160000, Endereço do ponteiro: 140725628376064, local: C:\WINDOWS\SYSTEM32\WINSPOOL.DRV.
+Dll: kernel.appcore.dll, endereço base: 7FFD49390000, Endereço do ponteiro: 140725831941472, local: C:\WINDOWS\System32\kernel.appcore.dll.
+Dll: bcrypt.dll, endereço base: 7FFD49960000, Endereço do ponteiro: 140725838054208, local: C:\WINDOWS\System32\bcrypt.dll.
+Dll: dbghelp.dll, endereço base: 7FFD411B0000, Endereço do ponteiro: 140725695847904, local: C:\WINDOWS\SYSTEM32\dbghelp.dll.
+Dll: WINHTTP.dll, endereço base: 7FFD3F9D0000, Endereço do ponteiro: 140725670981616, local: C:\WINDOWS\SYSTEM32\WINHTTP.dll.
+Dll: dhcpcsvc.DLL, endereço base: 7FFD446B0000, Endereço do ponteiro: 140725751326096, local: C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL.
+Dll: NSI.dll, endereço base: 7FFD4B270000, Endereço do ponteiro: 140725864309152, local: C:\WINDOWS\System32\NSI.dll.
+Dll: PROPSYS.dll, endereço base: 7FFD45A60000, Endereço do ponteiro: 140725772219072, local: C:\WINDOWS\SYSTEM32\PROPSYS.dll.
+Dll: shcore.dll, endereço base: 7FFD4BB50000, Endereço do ponteiro: 140725873840688, local: C:\WINDOWS\System32\shcore.dll.
+Dll: SSPICLI.DLL, endereço base: 7FFD49200000, Endereço do ponteiro: 140725830343504, local: C:\WINDOWS\SYSTEM32\SSPICLI.DLL.
+Dll: CRYPTBASE.DLL, endereço base: 7FFD48CB0000, Endereço do ponteiro: 140725824725504, local: C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL.
+
+
+
+
+---------------------Informações do programa---------------------
+local: C:\Program Files (x86)\Google\Chrome\Application
+Tamanho: 1 Mb
+Data de criação: 02/08/2020 19:43:31
+Versão: 84.0.4147.125
+Nome: Google Chrome
+Empresa: Google LLC
+Linguagem padrão: Inglês (Estados Unidos)
+Beta: Não
+Alterado: Não
+Direitos autorais: Copyright 2020 Google LLC. All rights reserved.
